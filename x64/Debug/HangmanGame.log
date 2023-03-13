@@ -1,0 +1,6 @@
+﻿  HangmanGame.cpp
+D:\VSProjects\HangmanGame\HangmanGame\HangmanGame.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\VSProjects\HangmanGame\HangmanGame\HangmanGame.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VSProjects\HangmanGame\HangmanGame\HangmanGame.cpp(86,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\VSProjects\HangmanGame\HangmanGame\HangmanGame.cpp(137,25): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+  HangmanGame.vcxproj -> D:\VSProjects\HangmanGame\x64\Debug\HangmanGame.exe
